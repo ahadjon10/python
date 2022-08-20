@@ -1,0 +1,4 @@
+import pandas
+ colors = ['red','yellow','orange','blue','green']
+ myseries = pd.Series(mydict, index=colors)
+ ptint(myseries)
